@@ -1,2 +1,25 @@
-# a21888e9-fashion-apparel-sow-and-scop
-The fashion apparel tool you'd build yourself — if you had the time.  Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Fashion &amp; Apparel Sow And Scope Document Generator — fully configured and ready to use - Fully editable: all fields, col
+# Fashion & Apparel SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm4gz8v50bW1dedI0cZM25)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm4gz8v50bW1dedI0cZM25)
+
